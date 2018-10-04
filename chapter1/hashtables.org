@@ -6,10 +6,12 @@ to values for highly efficient lookup.
 #+END_QUOTE
 
 
-#+BEGIN_SRC python :results output 
+#+BEGIN_SRC python :results output org
 print("Hello World")
 #+END_SRC
 
 #+RESULTS:
-: Hello World
+#+BEGIN_SRC org
+Hello World
+#+END_SRC
 
