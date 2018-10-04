@@ -1,0 +1,15 @@
+* Hash Tables
+
+#+BEGIN_QUOTE
+A hash table is a data structure that maps keys 
+to values for highly efficient lookup.
+#+END_QUOTE
+
+
+#+BEGIN_SRC python :results output 
+print("Hello World")
+#+END_SRC
+
+#+RESULTS:
+: Hello World
+
